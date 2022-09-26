@@ -42,10 +42,16 @@ The Miller Library Makerspace at Hopkins Marine Station provides a drop-in space
 ## Equipment & supplies
 The Miller Makerspace currently has:
 
-- Ultimaker 2+ Extended 3D printer (filament)
+- Ultimaker 3 Extended 3D printer (filament)
 - Form 2 3D printer (resin), Form Wash + Form Cure
-- Arduino kits (for checkout)
-- 
+- UCTRONICS Advanced Starter Kit for Arduino UNO and MEGA 2560 (x5)
+- SunFounder Project Super Starter Kit V3.0 (x5)
+- Kuman for Arduino Project Complete Starter Kit
+- Adeept New Ultimate Starter Learning Kit for Raspberry Pi 3
+- CanaKit Raspberry Pi 3 Complete Starter Kit
+- Various Arduino, Raspberry Pi and Teensy boards
+- Various components (resistors, capacitors, wires, etc.)
+- soldering iron
 - Janome HD-3000 sewing machine
 - Iron & ironing board
 - Cutting board & rotary cutter
@@ -53,9 +59,11 @@ The Miller Makerspace currently has:
 - Crochet hooks (that you can take with you!)
 - Assortment of donated fabric, thread & yarn
 - Various books and patterns
+- LEGO bricks
+- Various modeling & craft supplies
 
 
 ## Background
 Miller Library Head Librarian Amanda Whitmire launched the Miller Makerspace in February 2017, converting the space from a former Reference Area. You can read more about the philosophy behind the makerspace at:
-- Whitmire, Amanda L. (2018). Tinkering is fundamental: why open source electronics are a natural fit in [marine] science libraries. Oral Presentation. [Stanford Digital Repository](https://purl.stanford.edu/cz459xn4262). https://purl.stanford.edu/cz459xn4262
-- Whitmire, A. (2022). Implementing a 3D printing service at a marine biology library. [Stanford Digital Repository](https://purl.stanford.edu/xf227mk1917). https://doi.org/10.25740/xf227mk1917.
+- Whitmire, Amanda L. (2017). Tinkering is fundamental: why open source electronics are a natural fit in [marine] science libraries. Oral Presentation. [Stanford Digital Repository](https://purl.stanford.edu/cz459xn4262). https://purl.stanford.edu/cz459xn4262
+- Whitmire, Amanda L. (2022). Implementing a 3D printing service at a marine biology library. [Stanford Digital Repository](https://purl.stanford.edu/xf227mk1917). https://doi.org/10.25740/xf227mk1917.
