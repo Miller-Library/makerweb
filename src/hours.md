@@ -12,18 +12,10 @@ seo:
   image:
 ---
 
-<img src="/assets/images/friendship_bracelets.jpg" style="float:right;" width="400px">
+<img src="/assets/images/thinking.jpg" style="float:right;" width="400px">
 
+We are located at [Hopkins Marine Station](https://hopkinsmarinestation.stanford.edu/) in Pacific Grove, CA. The [Harold A. Miller Library](https://library.stanford.edu/hopkins) is located adjacent to the main parking lot. 
 
-The Textile Makerspace is staffed by DLCL Academic Technology Specialist Quinn Dombrowski and a group of volunteers. The schedule can vary, but we try to keep the latest info about our open hours on this page. If you'd like to volunteer to help run the Textile Makerspace, please [contact us](contact)!
+The Miller Makerspace is available to the community M-F, 9 am - 5 pm, but staffing hours vary. The makerspace is staffed by Tom Rolander (M/W/F) and Amanda Whitmire (M-F). 
 
-## Fall 2022 schedule
-
-We're still figuring out our regular open hours; we hope to be open at least two days a week, probably around lunchtime. More details soon! 
-
-We do have a few events planned, with more coming:
-
-- Friendship bracelet workshop: Wednesday, September 28, 1 PM, with Alix Keener
-- Crochet lessons & practice, with Mary-Ellen Petrich
-  - Tuesday, September 6th, 12-1 PM
-  - Tuesday, September 20th, 12-1 PM
+If you have questions, please [contact us](contact)!
