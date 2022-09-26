@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Textile Makerspace</title>
+  <subtitle>A makerspace at Stanford for sewing, knitting, crochet, weaving &amp; other creativity with textiles.</subtitle>
+  <link href="http://localhost:8080"/>
+  <link href="http://localhost:8080/feed.xml" rel="self"/>
+  <updated>2022-09-26T19:14:04Z</updated>
+  <id>http://localhost:8080</id>
+  <author>
+    <name>Quinn Dombrowski</name>
+    <email>qad@stanford.edu</email>
+  </author>
+</feed>
