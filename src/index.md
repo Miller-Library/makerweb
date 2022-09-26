@@ -1,9 +1,9 @@
 ---
 # This is a full listing of available Frontmatter options, available for any content (.md) file.
-title: Textile Makerspace
+title: Miller Library Makerspace
 layout: page
 excerpt: # used for page excerpts and META (will be overwritten if SEO used below)
-author: quinn-dombrowski # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
+author: amanda-whitmire # only displayed on Post lists and detail views. Defaults to _data/meta.authorURL
 eleventyNavigation: # Required if want to display in Main Nav Bar
   key: main # "main" is required
   title: Welcome # as it will appear in the nav
@@ -19,14 +19,14 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   bg:
     color: # default bg-black
-    image: makerspace_whiteboard.jpg # relative to /assets/images/
+    image: miller_makerspace.jpg # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
     opacityDesktop: opacity-50 # Leave blank to inherit opacityMobile, use same options as opacityMobile
-  headingText: Textile Makerspace
+  headingText: Miller Makerspace
   headingTextColor: # default = text-white (can use any TailwindCSS text-[color]-[xxx])
   headingTextCase: # default = as typed - options: uppercase, lowercase, capitalize
-  subheadingText: Pigott Hall, 260-238
+  subheadingText: Miller Library @ Hopkins Marine Station
   subheadingTextColor: # Leave empty to inherit headingTextColor or default (text-white) or use any text-[color]-[xxx]
   buttonText: Hours & events # no button generated if left blank
   buttonURL: /hours/ # full url required. Example: https://thisdomain.com/somepage/
@@ -37,24 +37,18 @@ heroSettings:
 ---
 
 
-The Textile Makerspace provides a drop-in space for Stanford students, faculty, and staff to sew, knit, crochet, weave, and do other hands-on creative work with textiles. Our [hours](hours) vary depending on when people are available to staff it. If you'd like to volunteer to help run the Textile Makerspace, please [contact us](contact).
+The Miller Library Makerspace at Hopkins Marine Station provides a drop-in space for Stanford students, faculty, and staff to prototype, 3D print, explore microelectronics, sew, knit, crochet, and do other hands-on making. We are [open](hours) on weekdays 9 am - 5 pm. If you'd like to use the Makerspace, please [contact us](contact) or stop by!
 
 ## Equipment & supplies
-The Textile Makerspace currently has:
+The Miller Makerspace currently has:
 
-- Baby Lock Jubilant sewing machine
-- Brother 1034d serger
-- Bernina 2500dcet serger/coverstitch
-- Janome 900cpx coverstitch
-- Brother PE800 Embroidery Machine
-- Cricut Maker
-- Vinyl heat press
+- Ultimaker 2+ Extended 3D printer (filament)
+- Form 2 3D printer (resin), Form Wash + Form Cure
+- Arduino kits (for checkout)
+- 
+- Janome HD-3000 sewing machine
 - Iron & ironing board
 - Cutting board & rotary cutter
-- Tabletop snap press
-- Embroidery hoops
-- Personal-size and large looms
-- Darning loom
 - Button maker
 - Crochet hooks (that you can take with you!)
 - Assortment of donated fabric, thread & yarn
@@ -62,4 +56,6 @@ The Textile Makerspace currently has:
 
 
 ## Background
-DLCL Academic Technology Specialist Quinn Dombrowski first launched the Textile Makerspace in December 2018, converting the space from an unused computer lab. You can read more about the philosophy behind the makerspace and its connection to digital humanities in a [2019 Stanford News piece on campus makerspaces](https://news.stanford.edu/2019/12/09/makerspaces-at-stanford/).
+Miller Library Head Librarian Amanda Whitmire launched the Miller Makerspace in February 2017, converting the space from a former Reference Area. You can read more about the philosophy behind the makerspace at:
+- Whitmire, Amanda L. (2018). Tinkering is fundamental: why open source electronics are a natural fit in [marine] science libraries. Oral Presentation. [Stanford Digital Repository](https://purl.stanford.edu/cz459xn4262). https://purl.stanford.edu/cz459xn4262
+- Whitmire, A. (2022). Implementing a 3D printing service at a marine biology library. [Stanford Digital Repository](https://purl.stanford.edu/xf227mk1917). https://doi.org/10.25740/xf227mk1917.
