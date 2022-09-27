@@ -15,7 +15,27 @@ seo:
 [Tom Rolander](https://en.wikipedia.org/wiki/Tom_Rolander) has regular collaborations with members of the Hopkins community. Here we share some of their output. 
 
 
-**4 Port PID Controller**
-<img src="/makerweb/assets/images/pidcontroller.jpeg" style="float:left;" hspace="20" width="200px"> Proportional–Integral–Derivative: *This PID controller continuously calculates an error value as the difference between a desired setpoint temperature and the measured temperature and applies a correction based on proportional, integral, and derivative terms. Corrections are applied by turning on/off solid state relays controlling 120V heater/cooler receptacles.* [link to doc](/makerweb/assets/docs/4PortPIDController.pdf)
+## 4 Port PID Controller
+<img src="/makerweb/assets/images/pidcontroller.jpeg" width="200px"> Proportional–Integral–Derivative: This PID controller continuously calculates an error value as the difference between a desired setpoint temperature and the measured temperature and applies a correction based on proportional, integral, and derivative terms. Corrections are applied by turning on/off solid state relays controlling 120V heater/cooler receptacles. [link to doc](/makerweb/assets/docs/4PortPIDController.pdf)
+* Application: Brendan Cornwell, Katrina Armstrong, Nia S Walker, Marilla Lippert, Victor Nestor, Yimnang Golbuu, Stephen R Palumbi (2021) *Widespread variation in heat tolerance and symbiont load are associated with growth tradeoffs in the coral Acropora hyacinthus in Palau*, eLife [10:e64790](https://doi.org/10.7554/eLife.64790)
+* Collaborator: Brendan Cornwell (Palumbi Lab)
 
+## Arduino Shell Crusher Recorder
+<img src="/makerweb/assets/images/shellcrusher.jpg" width="300px">
+<img src="/makerweb/assets/images/ShellCrusherBlockDiagram.png" vspace="5" width="300px">
+Arduino microcontroller for tracking mussel shell fatigue: *Short description* [link to doc](/makerweb/assets/docs/TideCycleTimer.pdf)
+
+* Application: R. L. Crane, M. W. Denny; *Mechanical fatigue fractures bivalve shells.* J Exp Biol 15 May 2020; 223 (10): jeb220277. doi: [https://doi.org/10.1242/jeb.220277](https://doi.org/10.1242/jeb.220277)
+* Collaborator: Rachel Crane (Denny Lab)
+
+## Mussel Heat Stress Server
+<img src="/makerweb/assets/images/musselheatstress.jpg" width="300px">
+Data Server + API : Thermocouples measure internal temperature of mussles and relay data to the web.
+
+* Application: Nicole E. Moyen, George N. Somero, Mark W. Denny; *Effects of heat acclimation on cardiac function in the intertidal mussel Mytilus californianus: can laboratory-based indices predict survival in the field?*. J Exp Biol 1 May 2022; 225 (9): jeb243050. doi: [https://doi.org/10.1242/jeb.243050](https://doi.org/10.1242/jeb.243050)
+* Collaborator: Nicole Moyen (Denny Lab)
+
+## Tide Cycle Timer
+<img src="/makerweb/assets/images/BlockDiagram.jpeg" width="200px"> Arduino microcontroller based tide cycle timer: *Short description* [link to doc](/makerweb/assets/docs/TideCycleTimer.pdf)
+* Collaborator: Rachel Crane (Denny Lab)
 
