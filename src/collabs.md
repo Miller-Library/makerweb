@@ -16,7 +16,6 @@ seo:
 
 
 **4 Port PID Controller**
-Proportional–Integral–Derivative: *This PID controller continuously calculates an error value as the difference between a desired setpoint temperature and the measured temperature and applies a correction based on proportional, integral, and derivative terms. Corrections are applied by turning on/off solid state relays controlling
-120V heater/cooler receptacles*
+<img src="/makerweb/assets/images/pidcontroller.jpeg" style="float:left;" hspace="20" width="200px"> Proportional–Integral–Derivative: *This PID controller continuously calculates an error value as the difference between a desired setpoint temperature and the measured temperature and applies a correction based on proportional, integral, and derivative terms. Corrections are applied by turning on/off solid state relays controlling 120V heater/cooler receptacles.* [link to doc](/makerweb/assets/docs/4PortPIDController.pdf)
 
-<img src="/makerweb/assets/images/pidcontroller.jpg width="400px">
+
