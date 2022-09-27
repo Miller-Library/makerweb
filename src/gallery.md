@@ -24,9 +24,6 @@ Rusty fan cover replacement
 Prototype marine mammal tagging jig
 <img src="/makerweb/assets/images/MMakerspace_3.jpeg" width="400px">
 
-Mount for time-lapse photos of tunicates
-<img src="/makerweb/assets/images/MMakerspace_25.jpeg" width="400px">
-
 Coral polyp model w/heat-activated filament (simulates coral bleaching)
 <img src="/makerweb/assets/images/MMakerspace_23.jpeg" width="400px">
 

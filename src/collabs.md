@@ -35,6 +35,10 @@ Data Server + API : Thermocouples measure internal temperature of mussles and re
 * Application: Nicole E. Moyen, George N. Somero, Mark W. Denny; *Effects of heat acclimation on cardiac function in the intertidal mussel Mytilus californianus: can laboratory-based indices predict survival in the field?*. J Exp Biol 1 May 2022; 225 (9): jeb243050. doi: [https://doi.org/10.1242/jeb.243050](https://doi.org/10.1242/jeb.243050)
 * Collaborator: Nicole Moyen (Denny Lab)
 
+## Mount for time-lapse photos of tunicates
+<img src="/makerweb/assets/images/MMakerspace_25.jpeg" width="400px">
+A height-adjustable platform for taking time-lapse images of tunicates via an iPhone. Tom designed the whole rig, including the platform for holding slides submerged just below the water (in black).
+
 ## Tide Cycle Timer
 <img src="/makerweb/assets/images/BlockDiagram.jpeg" width="200px"> Arduino microcontroller based tide cycle timer: *Short description* [link to doc](/makerweb/assets/docs/TideCycleTimer.pdf)
 * Collaborator: Rachel Crane (Denny Lab)
