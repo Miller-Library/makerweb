@@ -5,7 +5,7 @@ layout: page
 eleventyNavigation:
   key: main
   title: Gallery # as it will appear in the nav
-  order: 2 # order to display in the nav
+  order: 3 # order to display in the nav
 seo:
   title: Project Gallery # overrides 'title' above on both Page and META
   description:
@@ -47,8 +47,7 @@ Stone tool replica (artifact 3D scanned @ Stanford Libraries)
 
 Stone tool replicas (artifact 3D scanned @ Stanford Libraries)
 <img src="/makerweb/assets/images/MMakerspace_14.jpeg" width="400px">
-
----
+ 
 
 ## :fish: :crab: For fun! :squid: :whale:
 

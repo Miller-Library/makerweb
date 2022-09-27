@@ -39,23 +39,26 @@ heroSettings:
 
 The Miller Library Makerspace at Hopkins Marine Station provides a drop-in space for Stanford students, faculty, and staff to prototype, 3D print, explore microelectronics, sew, knit, crochet, and do other hands-on making. We are [open](hours) on weekdays 9 am - 5 pm. If you'd like to use the Makerspace, please [contact us](contact) or stop by!
 
-## Equipment & supplies
+## Equipment & supplies :anchor:
 The Miller Makerspace currently has:
 
 - Ultimaker 3 Extended 3D printer (filament)
 - Form 2 3D printer (resin), Form Wash + Form Cure
+- PC workstations loaded with CAD software (Solidworks)
 - UCTRONICS Advanced Starter Kit for Arduino UNO and MEGA 2560 (x5)
 - SunFounder Project Super Starter Kit V3.0 (x5)
 - Kuman for Arduino Project Complete Starter Kit
 - Adeept New Ultimate Starter Learning Kit for Raspberry Pi 3
 - CanaKit Raspberry Pi 3 Complete Starter Kit
 - Various Arduino, Raspberry Pi and Teensy boards
-- Various components (resistors, capacitors, wires, etc.)
-- soldering iron
+- Various components (resistors, capacitors, wires, thermistors, fans, etc.)
+- Soldering iron
 - Janome HD-3000 sewing machine
 - Iron & ironing board
 - Cutting board & rotary cutter
-- Button maker
+- Button maker (2.25")
+- Laminating machine
+- Light table
 - Crochet hooks (that you can take with you!)
 - Assortment of donated fabric, thread & yarn
 - Various books and patterns

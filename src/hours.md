@@ -5,7 +5,7 @@ layout: page
 eleventyNavigation:
   key: main
   title: Hours # as it will appear in the nav
-  order: 2 # order to display in the nav
+  order: 4 # order to display in the nav
 seo:
   title: Hours and Location # overrides 'title' above on both Page and META
   description:
