@@ -68,5 +68,5 @@ The Miller Makerspace currently has:
 
 ## Background
 Miller Library Head Librarian Amanda Whitmire launched the Miller Makerspace in February 2017, converting the space from a former Reference Area. You can read more about the philosophy behind the makerspace at:
-- Whitmire, Amanda L. (2018). Tinkering is fundamental: why open source electronics are a natural fit in [marine] science libraries. Oral Presentation. [Stanford Digital Repository](https://purl.stanford.edu/cz459xn4262). https://purl.stanford.edu/cz459xn4262
-- Whitmire, Amanda L. (2017). Implementing a 3D printing service at a marine biology library. [Stanford Digital Repository](https://purl.stanford.edu/xf227mk1917). https://doi.org/10.25740/xf227mk1917.
+- Whitmire, Amanda L. (2018). Tinkering is fundamental: why open source electronics are a natural fit in [marine] science libraries. Oral Presentation. Stanford Digital Repository. https://purl.stanford.edu/cz459xn4262
+- Whitmire, Amanda L. (2017). Implementing a 3D printing service at a marine biology library. Poster. Stanford Digital Repository. https://doi.org/10.25740/xf227mk1917.
