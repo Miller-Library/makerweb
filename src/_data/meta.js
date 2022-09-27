@@ -1,14 +1,14 @@
 module.exports = {
 	siteURL: process.env.URL || 'http://localhost:8080',
-	siteName: "Textile Makerspace",
+	siteName: "Miller Makerspace",
 	siteDescription:
-		'A makerspace at Stanford for sewing, knitting, crochet, weaving & other creativity with textiles.',
+		'A makerspace at Hopkins Marine Station that provides a drop-in space for Stanford students, faculty, and staff to prototype, 3D print, explore microelectronics, sew, knit, crochet, and do other hands-on making.',
 	siteImage: '/assets/images/site/default.png',
 	lang: 'en',
 	locale: 'en_us',
-	authorName: 'Quinn Dombrowski',
-	authorURL: 'quinn-dombrowski',
-	authorEmail: 'qad@stanford.edu',
-	twitterSite: '@quinnanya',
-	twitterCreator: '@quinnanya',
+	authorName: 'Amanda Whitmire',
+	authorURL: 'amandawhitmire',
+	authorEmail: 'thalassa@stanford.edu',
+	twitterSite: '@AWhitTwit',
+	twitterCreator: '@AWhitTwit',
 }
