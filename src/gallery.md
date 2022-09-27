@@ -48,6 +48,26 @@ Stone tool replica (artifact 3D scanned @ Stanford Libraries)
 Stone tool replicas (artifact 3D scanned @ Stanford Libraries)
 <img src="/assets/images/MMakerspace_14.jpeg" width="400px">
 
+## For fun!
+
+Mesh skull pencil holder
+<img src="/assets/images/MMakerspace_31.jpeg" width="400px">
+
+Various projects
+<img src="/assets/images/MMakerspace_32.jpeg" width="400px">
+
+M.C. Escher lizards
+<img src="/assets/images/MMakerspace_33.jpeg" width="400px">
+
+Dachshund cryo tube holder (very popular w/ students!)
+<img src="/assets/images/MMakerspace_34.jpeg" width="400px">
+
+Hyperbolic crochet nudibranch shape
+<img src="/assets/images/MMakerspace_35.jpeg" width="400px">
+
+Hyperbolic crochet coral shapes
+<img src="/assets/images/MMakerspace_36.jpeg" width="400px">
+
 Rainbow stacking toy
 <img src="/assets/images/MMakerspace_4.jpeg" width="400px">
 
