@@ -37,5 +37,6 @@ module.exports = {
 		},
 	},
 	variants: {},
+	pathPrefix: "/makerweb/",
 	plugins: [require('@tailwindcss/custom-forms')],
 }
