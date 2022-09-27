@@ -204,6 +204,6 @@ eleventyConfig.addPassthroughCopy("src/CNAME");
 		templateFormats: ['html', 'njk', 'md'],
 		htmlTemplateEngine: 'njk',
 		markdownTemplateEngine: 'njk',
-		pathPrefix: "/makerweb/"
+		pathPrefix: ''
 	}
 }
