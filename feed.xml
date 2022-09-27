@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Textile Makerspace</title>
-  <subtitle>A makerspace at Stanford for sewing, knitting, crochet, weaving &amp; other creativity with textiles.</subtitle>
+  <title>Miller Makerspace</title>
+  <subtitle>A makerspace at Hopkins Marine Station that provides a drop-in space for Stanford students, faculty, and staff to prototype, 3D print, explore microelectronics, sew, knit, crochet, and do other hands-on making.</subtitle>
   <link href="http://localhost:8080"/>
   <link href="http://localhost:8080/feed.xml" rel="self"/>
-  <updated>2022-09-27T20:10:06Z</updated>
+  <updated>2022-09-27T20:16:13Z</updated>
   <id>http://localhost:8080</id>
   <author>
-    <name>Quinn Dombrowski</name>
-    <email>qad@stanford.edu</email>
+    <name>Amanda Whitmire</name>
+    <email>thalassa@stanford.edu</email>
   </author>
 </feed>
