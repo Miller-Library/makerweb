@@ -48,7 +48,9 @@ Stone tool replica (artifact 3D scanned @ Stanford Libraries)
 Stone tool replicas (artifact 3D scanned @ Stanford Libraries)
 <img src="/makerweb/assets/images/MMakerspace_14.jpeg" width="400px">
 
-## For fun!
+---
+
+## :fish: :crab: For fun! :squid: :whale:
 
 Mesh skull pencil holder
 <img src="/assets/images/MMakerspace_31.jpeg" width="400px">
