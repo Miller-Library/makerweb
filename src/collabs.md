@@ -43,6 +43,6 @@ Data Server + API : Thermocouples measure internal temperature of mussles and re
 A height-adjustable platform for taking time-lapse images of tunicates via an iPhone. Tom designed the whole rig, including the platform for holding slides submerged just below the water (in black).
 
 ## Tide Cycle Timer
-<img src="/assets/images/BlockDiagram.jpeg" width="200px"> Arduino microcontroller based tide cycle timer: *Short description* [link to doc](/assets/docs/TideCycleTimer.pdf)
+<img src="/assets/images/BlockDiagram.jpeg" width="400px"> Arduino microcontroller based tide cycle timer: *Short description* [link to doc](/assets/docs/TideCycleTimer.pdf)
 * Collaborator: Rachel Crane (Denny Lab)
 
