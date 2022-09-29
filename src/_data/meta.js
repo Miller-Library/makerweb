@@ -3,7 +3,7 @@ module.exports = {
 	siteName: "Miller Makerspace",
 	siteDescription:
 		'A makerspace at Hopkins Marine Station that provides a drop-in space for Stanford students, faculty, and staff to prototype, 3D print, explore microelectronics, sew, knit, crochet, and do other hands-on making.',
-	siteImage: '/assets/images/site/default.png',
+	siteImage: '/assets/images/miller_makerspace.jpg',
 	lang: 'en',
 	locale: 'en_us',
 	authorName: 'Amanda Whitmire',
