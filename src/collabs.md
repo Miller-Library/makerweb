@@ -16,12 +16,15 @@ seo:
 
 
 ## 4 Port PID Controller
-<img src="/assets/images/pidcontroller.jpeg" width="200px"> Proportional–Integral–Derivative: This PID controller continuously calculates an error value as the difference between a desired setpoint temperature and the measured temperature and applies a correction based on proportional, integral, and derivative terms. Corrections are applied by turning on/off solid state relays controlling 120V heater/cooler receptacles. [link to doc]("/assets/docs/4PortPIDController.pdf")
+
+<img src="/assets/images/pidcontroller.jpeg" width="200px"> 
+
+Proportional–Integral–Derivative: This PID controller continuously calculates an error value as the difference between a desired setpoint temperature and the measured temperature and applies a correction based on proportional, integral, and derivative terms. Corrections are applied by turning on/off solid state relays controlling 120V heater/cooler receptacles. [link to doc]("/assets/docs/4PortPIDController.pdf")
 * Application: Brendan Cornwell, Katrina Armstrong, Nia S Walker, Marilla Lippert, Victor Nestor, Yimnang Golbuu, Stephen R Palumbi (2021) *Widespread variation in heat tolerance and symbiont load are associated with growth tradeoffs in the coral Acropora hyacinthus in Palau*, eLife [10:e64790](https://doi.org/10.7554/eLife.64790)
 * Collaborator: Brendan Cornwell (Palumbi Lab)
 
 ## Arduino Shell Crusher Recorder
-<img src="/assets/images/shellcrusher.jpg" width="300px">
+
 <img src="/assets/images/ShellCrusherBlockDiagram.png" vspace="5" width="300px">
 Arduino microcontroller for tracking mussel shell fatigue: *Short description* [link to doc](/assets/docs/TideCycleTimer.pdf)
 
