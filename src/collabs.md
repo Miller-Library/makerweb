@@ -46,6 +46,8 @@ A height-adjustable platform for taking time-lapse images of tunicates via an iP
 <img src="/assets/images/BlockDiagram.jpeg" width="400px"> Arduino microcontroller based 
 * Collaborator: Rachel Crane (Denny Lab)
 
+## Documentation Covers
+
 <img src="/assets/images/RolanderCovers_Page_1.png" border="5" width="300px">
 
 <img src="/assets/images/RolanderCovers_Page_3.png" border="1" width="300px">
