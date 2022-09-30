@@ -17,16 +17,16 @@ seo:
 
 ## 4 Port PID Controller
 
-<img src="/assets/images/pidcontroller.jpeg" width="200px"> 
+<img src="/assets/images/pidcontroller.jpeg" float="left" width="200px"> 
 
-Proportional–Integral–Derivative: This PID controller continuously calculates an error value as the difference between a desired setpoint temperature and the measured temperature and applies a correction based on proportional, integral, and derivative terms. Corrections are applied by turning on/off solid state relays controlling 120V heater/cooler receptacles. [link to doc]("/assets/docs/4PortPIDController.pdf")
+Proportional–Integral–Derivative: This PID controller continuously calculates an error value as the difference between a desired setpoint temperature and the measured temperature and applies a correction based on proportional, integral, and derivative terms. Corrections are applied by turning on/off solid state relays controlling 120V heater/cooler receptacles.
 * Application: Brendan Cornwell, Katrina Armstrong, Nia S Walker, Marilla Lippert, Victor Nestor, Yimnang Golbuu, Stephen R Palumbi (2021) *Widespread variation in heat tolerance and symbiont load are associated with growth tradeoffs in the coral Acropora hyacinthus in Palau*, eLife [10:e64790](https://doi.org/10.7554/eLife.64790)
 * Collaborator: Brendan Cornwell (Palumbi Lab)
 
 ## Arduino Shell Crusher Recorder
 
 <img src="/assets/images/ShellCrusherBlockDiagram.png" vspace="5" width="300px">
-Arduino microcontroller for tracking mussel shell fatigue: *Short description* [link to doc](/assets/docs/TideCycleTimer.pdf)
+Arduino microcontroller for tracking mussel shell fatigue: *Short description* 
 
 * Application: R. L. Crane, M. W. Denny; *Mechanical fatigue fractures bivalve shells.* J Exp Biol 15 May 2020; 223 (10): jeb220277. doi: [https://doi.org/10.1242/jeb.220277](https://doi.org/10.1242/jeb.220277)
 * Collaborator: Rachel Crane (Denny Lab)
@@ -43,6 +43,6 @@ Data Server + API : Thermocouples measure internal temperature of mussles and re
 A height-adjustable platform for taking time-lapse images of tunicates via an iPhone. Tom designed the whole rig, including the platform for holding slides submerged just below the water (in black).
 
 ## Tide Cycle Timer
-<img src="/assets/images/BlockDiagram.jpeg" width="400px"> Arduino microcontroller based tide cycle timer: *Short description* [link to doc](/assets/docs/TideCycleTimer.pdf)
+<img src="/assets/images/BlockDiagram.jpeg" width="400px"> Arduino microcontroller based tide cycle timer: *Short description* 
 * Collaborator: Rachel Crane (Denny Lab)
 
