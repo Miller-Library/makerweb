@@ -42,9 +42,9 @@ The Miller Library Makerspace at Hopkins Marine Station provides a drop-in space
 ## Equipment & supplies :anchor:
 The Miller Makerspace currently has:
 
-- Ultimaker 3 Extended 3D printer (filament)
+- Bambu P1P 3D printer with AMS for multi-color prints (filament)
 - Creality CR-6 SE 3D printer (filament)
-- Prusa i3 MK3S+ 3D printer + MMU upgrade (filament)
+- Prusa i3 MK3S+ 3D printer (filament)
 - PC workstations loaded with CAD software (Solidworks)
 - UCTRONICS Advanced Starter Kit for Arduino UNO and MEGA 2560 (x5)
 - SunFounder Project Super Starter Kit V3.0 (x5)
@@ -55,6 +55,8 @@ The Miller Makerspace currently has:
 - Various components (resistors, capacitors, wires, thermistors, fans, etc.)
 - Soldering iron
 - Janome HD-3000 sewing machine
+- Brother 1034d serger
+- Cyanotype fabric sheets
 - Iron & ironing board
 - Cutting board & rotary cutter
 - 24" frame loom (x3)
